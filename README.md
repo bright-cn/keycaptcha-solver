@@ -1,6 +1,6 @@
 # KeyCAPTCHA 解决方案  
 
-[![推广](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/keycaptcha)  
+[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/keycaptcha)  
 
 使用 Bright Data 的先进 CAPTCHA 解决技术轻松绕过 KeyCAPTCHA。利用机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)和强大的代理基础设施，确保无缝、稳定地访问目标网站。  
 
